@@ -11,4 +11,4 @@ Ce projet est une démonstration des fonctionnalités Git :
 ## 💻 Installation
 1. Cloner le projet :  
    ```bash
-   (https://github.com/fadichikh/projet_git.git)
+   git clone https://github.com/fadichikh/projet_git.git
